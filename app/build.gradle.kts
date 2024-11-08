@@ -64,7 +64,6 @@ android {
 }
 
 dependencies {
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
@@ -74,7 +73,10 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.material3)
 
+    // Navigation
     implementation(libs.androidx.navigation.compose)
+
+    // Dependency Injection
     implementation(libs.koin.androidx.compose)
 
     // Network
@@ -84,10 +86,11 @@ dependencies {
     implementation(libs.retrofit2.kotlinx.serialization.converter)
     api(libs.logginginterceptor)
 
-    //paging 3
+    // Paging 3
     implementation ( libs.androidx.paging.runtime.ktx)
     implementation (libs.androidx.paging.compose)
 
+    // Async
     implementation(libs.coil.compose)
 
     testImplementation(libs.junit)

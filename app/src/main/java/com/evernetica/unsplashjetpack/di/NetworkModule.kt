@@ -66,7 +66,6 @@ fun provideRetrofit(
     return Retrofit.Builder()
         .baseUrl(BASE_URL)
         .client(okHttpClient)
-
         .addConverterFactory(json.asConverterFactory(contentType))
         .build()
 }
