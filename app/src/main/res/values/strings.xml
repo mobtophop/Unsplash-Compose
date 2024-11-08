@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unsplash Jetpack</string>
+    <string name="main_title">Unsplash</string>
+    <string name="back">Back</string>
+</resources>
