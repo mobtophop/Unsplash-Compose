@@ -16,5 +16,5 @@
 
 
 ## Preview
-<img src="https://github.com/user-attachments/assets/a796d10e-b714-49b5-a58f-835216186992" height="1000"/>
-<img src="https://github.com/user-attachments/assets/c5d968fd-3c78-43dd-b584-0deaa991ac1b" height="1000"/>
+<img src="https://github.com/user-attachments/assets/a796d10e-b714-49b5-a58f-835216186992" height="600"/>
+<img src="https://github.com/user-attachments/assets/c5d968fd-3c78-43dd-b584-0deaa991ac1b" height="600"/>
